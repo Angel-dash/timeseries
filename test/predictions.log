@@ -1,0 +1,512 @@
+2024-09-13 09:27:55 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 4, 23, 0) value=1.9017073644584084
+2024-09-13 09:27:56 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 0, 0) value=1.6816439361303581
+2024-09-13 09:27:57 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 1, 0) value=1.850072389886944
+2024-09-13 09:27:58 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 2, 0) value=1.732073165800805
+2024-09-13 09:27:59 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 0, 0) value=1.5664495804493703
+2024-09-13 09:28:00 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 1, 0) value=1.8937684937568406
+2024-09-13 09:28:01 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 2, 0) value=1.890067844444141
+2024-09-13 09:28:02 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 3, 0) value=1.7408741921819753
+2024-09-13 09:28:03 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 1, 0) value=1.6320972507862614
+2024-09-13 09:28:04 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 2, 0) value=1.828050506208826
+2024-09-13 09:28:05 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 3, 0) value=1.620944602714417
+2024-09-13 09:28:06 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 4, 0) value=1.609952027817917
+2024-09-13 09:28:07 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 2, 0) value=1.9531442957745084
+2024-09-13 09:28:08 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 3, 0) value=1.5642477807621167
+2024-09-13 09:28:09 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 4, 0) value=1.6831532433608982
+2024-09-13 09:28:10 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 5, 0) value=1.6746180112924662
+2024-09-13 09:28:11 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 3, 0) value=1.5425086036675482
+2024-09-13 09:28:12 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 4, 0) value=1.578702030768849
+2024-09-13 09:28:13 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 5, 0) value=1.5233370133066466
+2024-09-13 09:28:14 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 6, 0) value=1.8900369890163622
+2024-09-13 09:28:15 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 4, 0) value=1.8489710891261917
+2024-09-13 09:28:16 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 5, 0) value=1.8024176613005145
+2024-09-13 09:28:17 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 6, 0) value=1.7385301951739751
+2024-09-13 09:28:18 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 7, 0) value=1.771654055017987
+2024-09-13 09:28:19 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 5, 0) value=1.923651433873205
+2024-09-13 09:28:20 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 6, 0) value=1.8653534198109973
+2024-09-13 09:28:21 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 7, 0) value=1.806402436099633
+2024-09-13 09:28:22 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 8, 0) value=1.886537117987633
+2024-09-13 09:28:23 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 6, 0) value=1.7439470159619763
+2024-09-13 09:28:24 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 7, 0) value=1.6580752140688955
+2024-09-13 09:28:25 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 8, 0) value=1.569199446128184
+2024-09-13 09:28:26 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 9, 0) value=1.6753098398433384
+2024-09-13 09:28:27 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 7, 0) value=1.9046805561536435
+2024-09-13 09:28:28 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 8, 0) value=1.7792146760744096
+2024-09-13 09:28:29 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 9, 0) value=1.7456108503764478
+2024-09-13 09:28:30 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 10, 0) value=1.513827666403293
+2024-09-13 09:28:31 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 8, 0) value=1.8130146009955224
+2024-09-13 09:28:33 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 9, 0) value=1.887346354454338
+2024-09-13 09:28:34 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 10, 0) value=1.7230546705977166
+2024-09-13 09:28:35 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 11, 0) value=1.8927482863955223
+2024-09-13 09:28:36 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 9, 0) value=1.873177573705062
+2024-09-13 09:28:37 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 10, 0) value=1.5010069939643804
+2024-09-13 09:28:38 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 11, 0) value=1.8516723397150467
+2024-09-13 09:28:39 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 12, 0) value=1.552562035413348
+2024-09-13 09:28:40 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 10, 0) value=1.9778161229663813
+2024-09-13 09:28:41 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 11, 0) value=1.592960833681805
+2024-09-13 09:28:42 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 12, 0) value=1.6420917728460118
+2024-09-13 09:28:43 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 13, 0) value=1.9371431934188286
+2024-09-13 09:28:44 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 11, 0) value=1.5121605943802219
+2024-09-13 09:28:45 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 12, 0) value=1.9477202222876608
+2024-09-13 09:28:46 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 13, 0) value=1.5998578078003753
+2024-09-13 09:28:47 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 14, 0) value=1.7957753827781582
+2024-09-13 09:28:48 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 12, 0) value=1.8923458472288748
+2024-09-13 09:28:49 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 13, 0) value=1.8150213689519012
+2024-09-13 09:28:50 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 14, 0) value=1.960106260395485
+2024-09-13 09:28:51 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 15, 0) value=1.8795810731548612
+2024-09-13 09:28:52 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 13, 0) value=1.696855655218106
+2024-09-13 09:28:53 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 14, 0) value=1.6910448405219416
+2024-09-13 09:28:54 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 15, 0) value=1.7100797809506196
+2024-09-13 09:28:55 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 16, 0) value=1.7933581268358207
+2024-09-13 09:28:56 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 14, 0) value=1.8425541908830505
+2024-09-13 09:28:57 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 15, 0) value=1.9243609833061233
+2024-09-13 09:28:58 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 16, 0) value=1.8217853786773348
+2024-09-13 09:28:59 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 17, 0) value=1.7176373747799742
+2024-09-13 09:29:00 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 15, 0) value=1.6079278870393952
+2024-09-13 09:29:01 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 16, 0) value=1.7599348534310495
+2024-09-13 09:29:02 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 17, 0) value=1.6640818085490008
+2024-09-13 09:29:03 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 18, 0) value=1.9588603990698232
+2024-09-13 09:29:04 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 16, 0) value=1.9050567535083256
+2024-09-13 09:29:05 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 17, 0) value=1.5165169369220444
+2024-09-13 09:29:06 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 18, 0) value=1.522302678844656
+2024-09-13 09:29:07 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 19, 0) value=1.9829317555166457
+2024-09-13 09:29:08 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 17, 0) value=1.7750078458664595
+2024-09-13 09:29:09 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 18, 0) value=1.7119466264290875
+2024-09-13 09:29:10 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 19, 0) value=1.7933797590706924
+2024-09-13 09:29:11 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 20, 0) value=1.797988614551242
+2024-09-13 09:29:12 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 18, 0) value=1.502243569024171
+2024-09-13 09:29:13 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 19, 0) value=1.7408100884065187
+2024-09-13 09:29:14 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 20, 0) value=1.7074394813360159
+2024-09-13 09:29:15 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 21, 0) value=1.6422537172951657
+2024-09-13 09:29:16 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 19, 0) value=1.551731876355735
+2024-09-13 09:29:17 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 20, 0) value=1.893103372068903
+2024-09-13 09:29:19 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 21, 0) value=1.6897004004436607
+2024-09-13 09:29:20 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 22, 0) value=1.7315378324929493
+2024-09-13 09:29:21 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 20, 0) value=1.7442428568631905
+2024-09-13 09:29:22 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 21, 0) value=1.568924384405311
+2024-09-13 09:29:23 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 22, 0) value=1.8431841121785544
+2024-09-13 09:29:24 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 23, 0) value=1.692127140983452
+2024-09-13 09:29:25 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 21, 0) value=1.7277377246936463
+2024-09-13 09:29:26 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 22, 0) value=1.5602345107077285
+2024-09-13 09:29:27 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 23, 0) value=1.970554986256455
+2024-09-13 09:29:28 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 6, 0, 0) value=1.9624404474797597
+2024-09-13 09:29:29 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 22, 0) value=1.9910514905193664
+2024-09-13 09:29:30 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 23, 0) value=1.5425669199983758
+2024-09-13 09:29:31 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 6, 0, 0) value=1.8978038443432725
+2024-09-13 09:29:32 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 6, 1, 0) value=1.873736877253694
+2024-09-13 09:29:33 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 23, 0) value=1.567938013513416
+2024-09-13 09:29:34 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 6, 0, 0) value=1.577615227781656
+2024-09-13 09:29:35 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 6, 1, 0) value=1.7992451165770056
+2024-09-13 09:29:36 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 6, 2, 0) value=1.8235921847607819
+2024-09-13 09:43:33 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 4, 23, 0) value=1.9017073644584084
+2024-09-13 09:44:02 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 4, 23, 0) value=1.9017073644584084
+2024-09-13 09:44:03 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 0, 0) value=1.6816439361303581
+2024-09-13 09:44:04 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 1, 0) value=1.850072389886944
+2024-09-13 09:44:05 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 2, 0) value=1.732073165800805
+2024-09-13 09:44:06 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 0, 0) value=1.5664495804493703
+2024-09-13 09:44:07 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 1, 0) value=1.8937684937568406
+2024-09-13 09:44:08 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 2, 0) value=1.890067844444141
+2024-09-13 09:44:09 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 3, 0) value=1.7408741921819753
+2024-09-13 09:44:10 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 1, 0) value=1.6320972507862614
+2024-09-13 09:44:11 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 2, 0) value=1.828050506208826
+2024-09-13 09:44:12 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 3, 0) value=1.620944602714417
+2024-09-13 09:44:13 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 4, 0) value=1.609952027817917
+2024-09-13 09:44:14 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 2, 0) value=1.9531442957745084
+2024-09-13 09:44:15 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 3, 0) value=1.5642477807621167
+2024-09-13 09:44:16 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 4, 0) value=1.6831532433608982
+2024-09-13 09:44:17 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 5, 0) value=1.6746180112924662
+2024-09-13 09:44:18 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 3, 0) value=1.5425086036675482
+2024-09-13 09:44:19 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 4, 0) value=1.578702030768849
+2024-09-13 09:44:20 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 5, 0) value=1.5233370133066466
+2024-09-13 09:44:21 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 6, 0) value=1.8900369890163622
+2024-09-13 09:44:22 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 4, 0) value=1.8489710891261917
+2024-09-13 09:44:23 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 5, 0) value=1.8024176613005145
+2024-09-13 09:44:25 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 6, 0) value=1.7385301951739751
+2024-09-13 09:44:26 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 7, 0) value=1.771654055017987
+2024-09-13 09:44:27 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 5, 0) value=1.923651433873205
+2024-09-13 09:44:28 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 6, 0) value=1.8653534198109973
+2024-09-13 09:44:29 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 7, 0) value=1.806402436099633
+2024-09-13 09:44:30 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 8, 0) value=1.886537117987633
+2024-09-13 09:44:31 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 6, 0) value=1.7439470159619763
+2024-09-13 09:44:32 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 7, 0) value=1.6580752140688955
+2024-09-13 09:44:33 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 8, 0) value=1.569199446128184
+2024-09-13 09:44:34 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 9, 0) value=1.6753098398433384
+2024-09-13 09:44:35 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 7, 0) value=1.9046805561536435
+2024-09-13 09:44:36 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 8, 0) value=1.7792146760744096
+2024-09-13 09:44:37 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 9, 0) value=1.7456108503764478
+2024-09-13 09:44:38 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 10, 0) value=1.513827666403293
+2024-09-13 09:44:39 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 8, 0) value=1.8130146009955224
+2024-09-13 09:44:40 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 9, 0) value=1.887346354454338
+2024-09-13 09:44:41 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 10, 0) value=1.7230546705977166
+2024-09-13 09:44:42 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 11, 0) value=1.8927482863955223
+2024-09-13 09:44:43 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 9, 0) value=1.873177573705062
+2024-09-13 09:44:44 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 10, 0) value=1.5010069939643804
+2024-09-13 09:44:45 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 11, 0) value=1.8516723397150467
+2024-09-13 09:44:46 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 12, 0) value=1.552562035413348
+2024-09-13 09:44:47 - Received prediction: origin_code='TEST_ORIGIN' parameter_code='TEST_PARAM' time=datetime.datetime(2024, 8, 5, 10, 0) value=1.9778161229663813
+2024-09-13 09:44:54.444 - Received at 2024-09-13T09:44:54.444831 - Prediction time: 2024-08-05T14:00:00 - Value: 1.7957753827781582 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:44:55.453 - Received at 2024-09-13T09:44:55.452973 - Prediction time: 2024-08-05T12:00:00 - Value: 1.8923458472288748 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:44:56.472 - Received at 2024-09-13T09:44:56.472312 - Prediction time: 2024-08-05T13:00:00 - Value: 1.8150213689519012 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:44:57.490 - Received at 2024-09-13T09:44:57.490011 - Prediction time: 2024-08-05T14:00:00 - Value: 1.960106260395485 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:44:58.513 - Received at 2024-09-13T09:44:58.513458 - Prediction time: 2024-08-05T15:00:00 - Value: 1.8795810731548612 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:44:59.544 - Received at 2024-09-13T09:44:59.543800 - Prediction time: 2024-08-05T13:00:00 - Value: 1.696855655218106 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:45:00.571 - Received at 2024-09-13T09:45:00.569130 - Prediction time: 2024-08-05T14:00:00 - Value: 1.6910448405219416 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:45:01.595 - Received at 2024-09-13T09:45:01.595087 - Prediction time: 2024-08-05T15:00:00 - Value: 1.7100797809506196 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:45:02.623 - Received at 2024-09-13T09:45:02.622810 - Prediction time: 2024-08-05T16:00:00 - Value: 1.7933581268358207 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:45:03.639 - Received at 2024-09-13T09:45:03.639054 - Prediction time: 2024-08-05T14:00:00 - Value: 1.8425541908830505 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:45:04.644 - Received at 2024-09-13T09:45:04.644559 - Prediction time: 2024-08-05T15:00:00 - Value: 1.9243609833061233 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:45:05.664 - Received at 2024-09-13T09:45:05.664575 - Prediction time: 2024-08-05T16:00:00 - Value: 1.8217853786773348 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:45:06.704 - Received at 2024-09-13T09:45:06.703963 - Prediction time: 2024-08-05T17:00:00 - Value: 1.7176373747799742 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:45:07.720 - Received at 2024-09-13T09:45:07.720218 - Prediction time: 2024-08-05T15:00:00 - Value: 1.6079278870393952 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:45:08.752 - Received at 2024-09-13T09:45:08.750010 - Prediction time: 2024-08-05T16:00:00 - Value: 1.7599348534310495 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:45:09.766 - Received at 2024-09-13T09:45:09.765607 - Prediction time: 2024-08-05T17:00:00 - Value: 1.6640818085490008 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:24.724 - Received at 2024-09-13T09:46:24.724035 - Prediction time: 2024-08-04T23:00:00 - Value: 1.9943578928130967 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:25.751 - Received at 2024-09-13T09:46:25.750810 - Prediction time: 2024-08-05T00:00:00 - Value: 1.5605035275254964 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:26.773 - Received at 2024-09-13T09:46:26.773109 - Prediction time: 2024-08-05T01:00:00 - Value: 1.5055010310513721 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:27.787 - Received at 2024-09-13T09:46:27.787153 - Prediction time: 2024-08-05T02:00:00 - Value: 1.5077023453565694 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:28.809 - Received at 2024-09-13T09:46:28.808635 - Prediction time: 2024-08-05T00:00:00 - Value: 1.8752879115131607 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:29.822 - Received at 2024-09-13T09:46:29.822498 - Prediction time: 2024-08-05T01:00:00 - Value: 1.7140086869260087 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:30.832 - Received at 2024-09-13T09:46:30.828400 - Prediction time: 2024-08-05T02:00:00 - Value: 1.9063724483245639 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:31.851 - Received at 2024-09-13T09:46:31.851406 - Prediction time: 2024-08-05T03:00:00 - Value: 1.5079729580687138 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:32.873 - Received at 2024-09-13T09:46:32.872944 - Prediction time: 2024-08-05T01:00:00 - Value: 1.8803571803263417 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:33.900 - Received at 2024-09-13T09:46:33.898814 - Prediction time: 2024-08-05T02:00:00 - Value: 1.5781777511635187 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:34.925 - Received at 2024-09-13T09:46:34.925274 - Prediction time: 2024-08-05T03:00:00 - Value: 1.9540685269405893 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:35.967 - Received at 2024-09-13T09:46:35.965326 - Prediction time: 2024-08-05T04:00:00 - Value: 1.9384042371532213 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:37.008 - Received at 2024-09-13T09:46:37.007937 - Prediction time: 2024-08-05T02:00:00 - Value: 1.8914847967534314 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:38.021 - Received at 2024-09-13T09:46:38.021100 - Prediction time: 2024-08-05T03:00:00 - Value: 1.938519710640066 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:39.039 - Received at 2024-09-13T09:46:39.039335 - Prediction time: 2024-08-05T04:00:00 - Value: 1.918597200357562 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:40.070 - Received at 2024-09-13T09:46:40.070676 - Prediction time: 2024-08-05T05:00:00 - Value: 1.981816335961488 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:41.086 - Received at 2024-09-13T09:46:41.086617 - Prediction time: 2024-08-05T03:00:00 - Value: 1.6848832068164161 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:42.109 - Received at 2024-09-13T09:46:42.109206 - Prediction time: 2024-08-05T04:00:00 - Value: 1.621138267965721 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:43.137 - Received at 2024-09-13T09:46:43.137589 - Prediction time: 2024-08-05T05:00:00 - Value: 1.7059117943218545 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:44.153 - Received at 2024-09-13T09:46:44.153128 - Prediction time: 2024-08-05T06:00:00 - Value: 1.5045023465947778 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:45.166 - Received at 2024-09-13T09:46:45.165909 - Prediction time: 2024-08-05T04:00:00 - Value: 1.9059956162763774 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:46.183 - Received at 2024-09-13T09:46:46.183291 - Prediction time: 2024-08-05T05:00:00 - Value: 1.7437216750576288 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:47.209 - Received at 2024-09-13T09:46:47.207691 - Prediction time: 2024-08-05T06:00:00 - Value: 1.9439320255726675 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:48.240 - Received at 2024-09-13T09:46:48.240702 - Prediction time: 2024-08-05T07:00:00 - Value: 1.813079045977373 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:49.265 - Received at 2024-09-13T09:46:49.265688 - Prediction time: 2024-08-05T05:00:00 - Value: 1.743363288005621 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:50.292 - Received at 2024-09-13T09:46:50.292366 - Prediction time: 2024-08-05T06:00:00 - Value: 1.6328121108544502 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:51.324 - Received at 2024-09-13T09:46:51.321267 - Prediction time: 2024-08-05T07:00:00 - Value: 1.8532805369323688 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:52.356 - Received at 2024-09-13T09:46:52.354371 - Prediction time: 2024-08-05T08:00:00 - Value: 1.9939865281390943 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:53.382 - Received at 2024-09-13T09:46:53.380948 - Prediction time: 2024-08-05T06:00:00 - Value: 1.6978013308309334 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:54.409 - Received at 2024-09-13T09:46:54.408632 - Prediction time: 2024-08-05T07:00:00 - Value: 1.71237594803319 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:55.446 - Received at 2024-09-13T09:46:55.446352 - Prediction time: 2024-08-05T08:00:00 - Value: 1.6680548750040913 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:56.497 - Received at 2024-09-13T09:46:56.494782 - Prediction time: 2024-08-05T09:00:00 - Value: 1.5878797717587818 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:57.521 - Received at 2024-09-13T09:46:57.521030 - Prediction time: 2024-08-05T07:00:00 - Value: 1.9372331378225296 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:58.538 - Received at 2024-09-13T09:46:58.538659 - Prediction time: 2024-08-05T08:00:00 - Value: 1.6818701077004055 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:46:59.552 - Received at 2024-09-13T09:46:59.552364 - Prediction time: 2024-08-05T09:00:00 - Value: 1.7005550411794168 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:47:00.569 - Received at 2024-09-13T09:47:00.569237 - Prediction time: 2024-08-05T10:00:00 - Value: 1.961476372477616 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:47:01.587 - Received at 2024-09-13T09:47:01.587757 - Prediction time: 2024-08-05T08:00:00 - Value: 1.753837186484376 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:47:02.594 - Received at 2024-09-13T09:47:02.593982 - Prediction time: 2024-08-05T09:00:00 - Value: 1.7977946860899716 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:47:03.610 - Received at 2024-09-13T09:47:03.609861 - Prediction time: 2024-08-05T10:00:00 - Value: 1.6616554396585435 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 09:47:04.640 - Received at 2024-09-13T09:47:04.639757 - Prediction time: 2024-08-05T11:00:00 - Value: 1.9686984935121212 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:45.573 - Received at 2024-09-13T10:49:45.573151 - Prediction time: 2024-08-04T23:00:00 - Value: 1.9943578928130967 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:45.573 - Received at 2024-09-13T10:49:45.573151 - Prediction time: 2024-08-05T00:00:00 - Value: 1.5605035275254964 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:45.574 - Received at 2024-09-13T10:49:45.573151 - Prediction time: 2024-08-05T01:00:00 - Value: 1.5055010310513721 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:45.574 - Received at 2024-09-13T10:49:45.573151 - Prediction time: 2024-08-05T02:00:00 - Value: 1.5077023453565694 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:46.585 - Received at 2024-09-13T10:49:46.585678 - Prediction time: 2024-08-05T00:00:00 - Value: 1.8752879115131607 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:46.586 - Received at 2024-09-13T10:49:46.585678 - Prediction time: 2024-08-05T01:00:00 - Value: 1.7140086869260087 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:46.586 - Received at 2024-09-13T10:49:46.585678 - Prediction time: 2024-08-05T02:00:00 - Value: 1.9063724483245639 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:46.586 - Received at 2024-09-13T10:49:46.585678 - Prediction time: 2024-08-05T03:00:00 - Value: 1.5079729580687138 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:47.603 - Received at 2024-09-13T10:49:47.603534 - Prediction time: 2024-08-05T01:00:00 - Value: 1.8803571803263417 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:47.604 - Received at 2024-09-13T10:49:47.603534 - Prediction time: 2024-08-05T02:00:00 - Value: 1.5781777511635187 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:47.605 - Received at 2024-09-13T10:49:47.603534 - Prediction time: 2024-08-05T03:00:00 - Value: 1.9540685269405893 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:47.606 - Received at 2024-09-13T10:49:47.603534 - Prediction time: 2024-08-05T04:00:00 - Value: 1.9384042371532213 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:48.636 - Received at 2024-09-13T10:49:48.633729 - Prediction time: 2024-08-05T02:00:00 - Value: 1.8914847967534314 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:48.639 - Received at 2024-09-13T10:49:48.633729 - Prediction time: 2024-08-05T03:00:00 - Value: 1.938519710640066 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:48.642 - Received at 2024-09-13T10:49:48.633729 - Prediction time: 2024-08-05T04:00:00 - Value: 1.918597200357562 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:48.643 - Received at 2024-09-13T10:49:48.633729 - Prediction time: 2024-08-05T05:00:00 - Value: 1.981816335961488 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:49.675 - Received at 2024-09-13T10:49:49.673110 - Prediction time: 2024-08-05T03:00:00 - Value: 1.6848832068164161 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:49.677 - Received at 2024-09-13T10:49:49.673110 - Prediction time: 2024-08-05T04:00:00 - Value: 1.621138267965721 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:49.678 - Received at 2024-09-13T10:49:49.673110 - Prediction time: 2024-08-05T05:00:00 - Value: 1.7059117943218545 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:49.678 - Received at 2024-09-13T10:49:49.673110 - Prediction time: 2024-08-05T06:00:00 - Value: 1.5045023465947778 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:50.701 - Received at 2024-09-13T10:49:50.701419 - Prediction time: 2024-08-05T04:00:00 - Value: 1.9059956162763774 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:50.703 - Received at 2024-09-13T10:49:50.701419 - Prediction time: 2024-08-05T05:00:00 - Value: 1.7437216750576288 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:50.704 - Received at 2024-09-13T10:49:50.701419 - Prediction time: 2024-08-05T06:00:00 - Value: 1.9439320255726675 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:50.705 - Received at 2024-09-13T10:49:50.701419 - Prediction time: 2024-08-05T07:00:00 - Value: 1.813079045977373 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:51.718 - Received at 2024-09-13T10:49:51.718731 - Prediction time: 2024-08-05T05:00:00 - Value: 1.743363288005621 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:51.718 - Received at 2024-09-13T10:49:51.718731 - Prediction time: 2024-08-05T06:00:00 - Value: 1.6328121108544502 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:51.719 - Received at 2024-09-13T10:49:51.718731 - Prediction time: 2024-08-05T07:00:00 - Value: 1.8532805369323688 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:51.719 - Received at 2024-09-13T10:49:51.718731 - Prediction time: 2024-08-05T08:00:00 - Value: 1.9939865281390943 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:52.755 - Received at 2024-09-13T10:49:52.753129 - Prediction time: 2024-08-05T06:00:00 - Value: 1.6978013308309334 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:52.758 - Received at 2024-09-13T10:49:52.753129 - Prediction time: 2024-08-05T07:00:00 - Value: 1.71237594803319 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:52.760 - Received at 2024-09-13T10:49:52.753129 - Prediction time: 2024-08-05T08:00:00 - Value: 1.6680548750040913 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:52.762 - Received at 2024-09-13T10:49:52.753129 - Prediction time: 2024-08-05T09:00:00 - Value: 1.5878797717587818 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:53.781 - Received at 2024-09-13T10:49:53.781665 - Prediction time: 2024-08-05T07:00:00 - Value: 1.9372331378225296 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:53.782 - Received at 2024-09-13T10:49:53.781665 - Prediction time: 2024-08-05T08:00:00 - Value: 1.6818701077004055 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:53.783 - Received at 2024-09-13T10:49:53.781665 - Prediction time: 2024-08-05T09:00:00 - Value: 1.7005550411794168 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:53.783 - Received at 2024-09-13T10:49:53.781665 - Prediction time: 2024-08-05T10:00:00 - Value: 1.961476372477616 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:54.804 - Received at 2024-09-13T10:49:54.802332 - Prediction time: 2024-08-05T08:00:00 - Value: 1.753837186484376 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:54.806 - Received at 2024-09-13T10:49:54.802332 - Prediction time: 2024-08-05T09:00:00 - Value: 1.7977946860899716 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:54.808 - Received at 2024-09-13T10:49:54.802332 - Prediction time: 2024-08-05T10:00:00 - Value: 1.6616554396585435 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:49:54.809 - Received at 2024-09-13T10:49:54.802332 - Prediction time: 2024-08-05T11:00:00 - Value: 1.9686984935121212 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+    2024-09-13 10:51:33.271 - 
+
+========================================
+New Batch of Predictions Received at 2024-09-13T10:51:33.271861
+========================================
+2024-09-13 10:51:33.272 - Received at 2024-09-13T10:51:33.271861 - Prediction time: 2024-08-04T23:00:00 - Value: 1.9943578928130967 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:33.272 - Received at 2024-09-13T10:51:33.271861 - Prediction time: 2024-08-05T00:00:00 - Value: 1.5605035275254964 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:33.273 - Received at 2024-09-13T10:51:33.271861 - Prediction time: 2024-08-05T01:00:00 - Value: 1.5055010310513721 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:33.273 - Received at 2024-09-13T10:51:33.271861 - Prediction time: 2024-08-05T02:00:00 - Value: 1.5077023453565694 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:34.297 - 
+
+========================================
+New Batch of Predictions Received at 2024-09-13T10:51:34.297710
+========================================
+2024-09-13 10:51:34.300 - Received at 2024-09-13T10:51:34.297710 - Prediction time: 2024-08-05T00:00:00 - Value: 1.8752879115131607 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:34.307 - Received at 2024-09-13T10:51:34.297710 - Prediction time: 2024-08-05T01:00:00 - Value: 1.7140086869260087 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:34.309 - Received at 2024-09-13T10:51:34.297710 - Prediction time: 2024-08-05T02:00:00 - Value: 1.9063724483245639 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:34.310 - Received at 2024-09-13T10:51:34.297710 - Prediction time: 2024-08-05T03:00:00 - Value: 1.5079729580687138 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:35.324 - 
+
+========================================
+New Batch of Predictions Received at 2024-09-13T10:51:35.324122
+========================================
+2024-09-13 10:51:35.324 - Received at 2024-09-13T10:51:35.324122 - Prediction time: 2024-08-05T01:00:00 - Value: 1.8803571803263417 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:35.324 - Received at 2024-09-13T10:51:35.324122 - Prediction time: 2024-08-05T02:00:00 - Value: 1.5781777511635187 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:35.324 - Received at 2024-09-13T10:51:35.324122 - Prediction time: 2024-08-05T03:00:00 - Value: 1.9540685269405893 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:35.324 - Received at 2024-09-13T10:51:35.324122 - Prediction time: 2024-08-05T04:00:00 - Value: 1.9384042371532213 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:36.334 - 
+
+========================================
+New Batch of Predictions Received at 2024-09-13T10:51:36.334876
+========================================
+2024-09-13 10:51:36.335 - Received at 2024-09-13T10:51:36.334876 - Prediction time: 2024-08-05T02:00:00 - Value: 1.8914847967534314 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:36.337 - Received at 2024-09-13T10:51:36.334876 - Prediction time: 2024-08-05T03:00:00 - Value: 1.938519710640066 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:36.337 - Received at 2024-09-13T10:51:36.334876 - Prediction time: 2024-08-05T04:00:00 - Value: 1.918597200357562 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:36.338 - Received at 2024-09-13T10:51:36.334876 - Prediction time: 2024-08-05T05:00:00 - Value: 1.981816335961488 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:37.357 - 
+
+========================================
+New Batch of Predictions Received at 2024-09-13T10:51:37.357420
+========================================
+2024-09-13 10:51:37.358 - Received at 2024-09-13T10:51:37.357420 - Prediction time: 2024-08-05T03:00:00 - Value: 1.6848832068164161 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:37.359 - Received at 2024-09-13T10:51:37.357420 - Prediction time: 2024-08-05T04:00:00 - Value: 1.621138267965721 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:37.360 - Received at 2024-09-13T10:51:37.357420 - Prediction time: 2024-08-05T05:00:00 - Value: 1.7059117943218545 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:37.361 - Received at 2024-09-13T10:51:37.357420 - Prediction time: 2024-08-05T06:00:00 - Value: 1.5045023465947778 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:38.371 - 
+
+========================================
+New Batch of Predictions Received at 2024-09-13T10:51:38.371175
+========================================
+2024-09-13 10:51:38.371 - Received at 2024-09-13T10:51:38.371175 - Prediction time: 2024-08-05T04:00:00 - Value: 1.9059956162763774 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:38.371 - Received at 2024-09-13T10:51:38.371175 - Prediction time: 2024-08-05T05:00:00 - Value: 1.7437216750576288 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:38.371 - Received at 2024-09-13T10:51:38.371175 - Prediction time: 2024-08-05T06:00:00 - Value: 1.9439320255726675 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:38.371 - Received at 2024-09-13T10:51:38.371175 - Prediction time: 2024-08-05T07:00:00 - Value: 1.813079045977373 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:39.378 - 
+
+========================================
+New Batch of Predictions Received at 2024-09-13T10:51:39.378787
+========================================
+2024-09-13 10:51:39.379 - Received at 2024-09-13T10:51:39.378787 - Prediction time: 2024-08-05T05:00:00 - Value: 1.743363288005621 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:39.379 - Received at 2024-09-13T10:51:39.378787 - Prediction time: 2024-08-05T06:00:00 - Value: 1.6328121108544502 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:39.379 - Received at 2024-09-13T10:51:39.378787 - Prediction time: 2024-08-05T07:00:00 - Value: 1.8532805369323688 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:39.380 - Received at 2024-09-13T10:51:39.378787 - Prediction time: 2024-08-05T08:00:00 - Value: 1.9939865281390943 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:40.384 - 
+
+========================================
+New Batch of Predictions Received at 2024-09-13T10:51:40.384854
+========================================
+2024-09-13 10:51:40.385 - Received at 2024-09-13T10:51:40.384854 - Prediction time: 2024-08-05T06:00:00 - Value: 1.6978013308309334 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:40.385 - Received at 2024-09-13T10:51:40.384854 - Prediction time: 2024-08-05T07:00:00 - Value: 1.71237594803319 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:40.385 - Received at 2024-09-13T10:51:40.384854 - Prediction time: 2024-08-05T08:00:00 - Value: 1.6680548750040913 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:40.385 - Received at 2024-09-13T10:51:40.384854 - Prediction time: 2024-08-05T09:00:00 - Value: 1.5878797717587818 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:41.390 - 
+
+========================================
+New Batch of Predictions Received at 2024-09-13T10:51:41.390664
+========================================
+2024-09-13 10:51:41.390 - Received at 2024-09-13T10:51:41.390664 - Prediction time: 2024-08-05T07:00:00 - Value: 1.9372331378225296 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:41.390 - Received at 2024-09-13T10:51:41.390664 - Prediction time: 2024-08-05T08:00:00 - Value: 1.6818701077004055 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:41.391 - Received at 2024-09-13T10:51:41.390664 - Prediction time: 2024-08-05T09:00:00 - Value: 1.7005550411794168 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:41.391 - Received at 2024-09-13T10:51:41.390664 - Prediction time: 2024-08-05T10:00:00 - Value: 1.961476372477616 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:42.413 - 
+
+========================================
+New Batch of Predictions Received at 2024-09-13T10:51:42.413000
+========================================
+2024-09-13 10:51:42.413 - Received at 2024-09-13T10:51:42.413000 - Prediction time: 2024-08-05T08:00:00 - Value: 1.753837186484376 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:42.414 - Received at 2024-09-13T10:51:42.413000 - Prediction time: 2024-08-05T09:00:00 - Value: 1.7977946860899716 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:42.415 - Received at 2024-09-13T10:51:42.413000 - Prediction time: 2024-08-05T10:00:00 - Value: 1.6616554396585435 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:51:42.415 - Received at 2024-09-13T10:51:42.413000 - Prediction time: 2024-08-05T11:00:00 - Value: 1.9686984935121212 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:55:56.648 - 
+
+========================================
+New Batch of Predictions Received at 2024-09-13T10:55:56.648894
+========================================
+2024-09-13 10:55:56.649 - Received at 2024-09-13T10:55:56.648894 - Prediction time: 2024-08-04T23:00:00 - Value: 1.9943578928130967 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:55:56.649 - Received at 2024-09-13T10:55:56.648894 - Prediction time: 2024-08-05T00:00:00 - Value: 1.5605035275254964 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:55:56.649 - Received at 2024-09-13T10:55:56.648894 - Prediction time: 2024-08-05T01:00:00 - Value: 1.5055010310513721 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:55:56.649 - Received at 2024-09-13T10:55:56.648894 - Prediction time: 2024-08-05T02:00:00 - Value: 1.5077023453565694 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:01.666 - 
+
+========================================
+New Batch of Predictions Received at 2024-09-13T10:56:01.665947
+========================================
+2024-09-13 10:56:01.666 - Received at 2024-09-13T10:56:01.665947 - Prediction time: 2024-08-05T00:00:00 - Value: 1.8752879115131607 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:01.667 - Received at 2024-09-13T10:56:01.665947 - Prediction time: 2024-08-05T01:00:00 - Value: 1.7140086869260087 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:01.667 - Received at 2024-09-13T10:56:01.665947 - Prediction time: 2024-08-05T02:00:00 - Value: 1.9063724483245639 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:01.668 - Received at 2024-09-13T10:56:01.665947 - Prediction time: 2024-08-05T03:00:00 - Value: 1.5079729580687138 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:06.689 - 
+
+========================================
+New Batch of Predictions Received at 2024-09-13T10:56:06.689197
+========================================
+2024-09-13 10:56:06.690 - Received at 2024-09-13T10:56:06.689197 - Prediction time: 2024-08-05T01:00:00 - Value: 1.8803571803263417 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:06.690 - Received at 2024-09-13T10:56:06.689197 - Prediction time: 2024-08-05T02:00:00 - Value: 1.5781777511635187 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:06.691 - Received at 2024-09-13T10:56:06.689197 - Prediction time: 2024-08-05T03:00:00 - Value: 1.9540685269405893 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:06.691 - Received at 2024-09-13T10:56:06.689197 - Prediction time: 2024-08-05T04:00:00 - Value: 1.9384042371532213 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:11.713 - 
+
+========================================
+New Batch of Predictions Received at 2024-09-13T10:56:11.713592
+========================================
+2024-09-13 10:56:11.714 - Received at 2024-09-13T10:56:11.713592 - Prediction time: 2024-08-05T02:00:00 - Value: 1.8914847967534314 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:11.716 - Received at 2024-09-13T10:56:11.713592 - Prediction time: 2024-08-05T03:00:00 - Value: 1.938519710640066 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:11.717 - Received at 2024-09-13T10:56:11.713592 - Prediction time: 2024-08-05T04:00:00 - Value: 1.918597200357562 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:11.717 - Received at 2024-09-13T10:56:11.713592 - Prediction time: 2024-08-05T05:00:00 - Value: 1.981816335961488 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:16.730 - 
+
+========================================
+New Batch of Predictions Received at 2024-09-13T10:56:16.729974
+========================================
+2024-09-13 10:56:16.730 - Received at 2024-09-13T10:56:16.729974 - Prediction time: 2024-08-05T03:00:00 - Value: 1.6848832068164161 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:16.730 - Received at 2024-09-13T10:56:16.729974 - Prediction time: 2024-08-05T04:00:00 - Value: 1.621138267965721 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:16.730 - Received at 2024-09-13T10:56:16.729974 - Prediction time: 2024-08-05T05:00:00 - Value: 1.7059117943218545 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:16.730 - Received at 2024-09-13T10:56:16.729974 - Prediction time: 2024-08-05T06:00:00 - Value: 1.5045023465947778 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:21.745 - 
+
+========================================
+New Batch of Predictions Received at 2024-09-13T10:56:21.745223
+========================================
+2024-09-13 10:56:21.745 - Received at 2024-09-13T10:56:21.745223 - Prediction time: 2024-08-05T04:00:00 - Value: 1.9059956162763774 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:21.746 - Received at 2024-09-13T10:56:21.745223 - Prediction time: 2024-08-05T05:00:00 - Value: 1.7437216750576288 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:21.746 - Received at 2024-09-13T10:56:21.745223 - Prediction time: 2024-08-05T06:00:00 - Value: 1.9439320255726675 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:21.747 - Received at 2024-09-13T10:56:21.745223 - Prediction time: 2024-08-05T07:00:00 - Value: 1.813079045977373 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:26.766 - 
+
+========================================
+New Batch of Predictions Received at 2024-09-13T10:56:26.766273
+========================================
+2024-09-13 10:56:26.767 - Received at 2024-09-13T10:56:26.766273 - Prediction time: 2024-08-05T05:00:00 - Value: 1.743363288005621 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:26.767 - Received at 2024-09-13T10:56:26.766273 - Prediction time: 2024-08-05T06:00:00 - Value: 1.6328121108544502 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:26.768 - Received at 2024-09-13T10:56:26.766273 - Prediction time: 2024-08-05T07:00:00 - Value: 1.8532805369323688 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:26.768 - Received at 2024-09-13T10:56:26.766273 - Prediction time: 2024-08-05T08:00:00 - Value: 1.9939865281390943 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:31.789 - 
+
+========================================
+New Batch of Predictions Received at 2024-09-13T10:56:31.789430
+========================================
+2024-09-13 10:56:31.790 - Received at 2024-09-13T10:56:31.789430 - Prediction time: 2024-08-05T06:00:00 - Value: 1.6978013308309334 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:31.790 - Received at 2024-09-13T10:56:31.789430 - Prediction time: 2024-08-05T07:00:00 - Value: 1.71237594803319 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:31.790 - Received at 2024-09-13T10:56:31.789430 - Prediction time: 2024-08-05T08:00:00 - Value: 1.6680548750040913 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:31.791 - Received at 2024-09-13T10:56:31.789430 - Prediction time: 2024-08-05T09:00:00 - Value: 1.5878797717587818 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:36.815 - 
+
+========================================
+New Batch of Predictions Received at 2024-09-13T10:56:36.814969
+========================================
+2024-09-13 10:56:36.815 - Received at 2024-09-13T10:56:36.814969 - Prediction time: 2024-08-05T07:00:00 - Value: 1.9372331378225296 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:36.817 - Received at 2024-09-13T10:56:36.814969 - Prediction time: 2024-08-05T08:00:00 - Value: 1.6818701077004055 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:36.818 - Received at 2024-09-13T10:56:36.814969 - Prediction time: 2024-08-05T09:00:00 - Value: 1.7005550411794168 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:36.819 - Received at 2024-09-13T10:56:36.814969 - Prediction time: 2024-08-05T10:00:00 - Value: 1.961476372477616 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:41.847 - 
+
+========================================
+New Batch of Predictions Received at 2024-09-13T10:56:41.846924
+========================================
+2024-09-13 10:56:41.849 - Received at 2024-09-13T10:56:41.846924 - Prediction time: 2024-08-05T08:00:00 - Value: 1.753837186484376 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:41.851 - Received at 2024-09-13T10:56:41.846924 - Prediction time: 2024-08-05T09:00:00 - Value: 1.7977946860899716 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:41.852 - Received at 2024-09-13T10:56:41.846924 - Prediction time: 2024-08-05T10:00:00 - Value: 1.6616554396585435 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-13 10:56:41.853 - Received at 2024-09-13T10:56:41.846924 - Prediction time: 2024-08-05T11:00:00 - Value: 1.9686984935121212 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:17.017 - 
+
+========================================
+New Batch of Predictions Received at 2024-09-16T12:49:17.017054
+========================================
+2024-09-16 12:49:17.017 - Received at 2024-09-16T12:49:17.017054 - Prediction time: 2024-08-04T23:00:00 - Value: 1.5052479267152599 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:17.017 - Received at 2024-09-16T12:49:17.017054 - Prediction time: 2024-08-05T00:00:00 - Value: 1.707626845204651 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:17.017 - Received at 2024-09-16T12:49:17.017054 - Prediction time: 2024-08-05T01:00:00 - Value: 1.9525944811496134 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:17.018 - Received at 2024-09-16T12:49:17.017054 - Prediction time: 2024-08-05T02:00:00 - Value: 1.9994791637149496 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:22.034 - 
+
+========================================
+New Batch of Predictions Received at 2024-09-16T12:49:22.034213
+========================================
+2024-09-16 12:49:22.040 - Received at 2024-09-16T12:49:22.034213 - Prediction time: 2024-08-05T00:00:00 - Value: 1.9907456714126854 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:22.041 - Received at 2024-09-16T12:49:22.034213 - Prediction time: 2024-08-05T01:00:00 - Value: 1.5503177879625702 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:22.042 - Received at 2024-09-16T12:49:22.034213 - Prediction time: 2024-08-05T02:00:00 - Value: 1.5708119198158226 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:22.043 - Received at 2024-09-16T12:49:22.034213 - Prediction time: 2024-08-05T03:00:00 - Value: 1.8553890753629216 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:27.068 - 
+
+========================================
+New Batch of Predictions Received at 2024-09-16T12:49:27.068462
+========================================
+2024-09-16 12:49:27.068 - Received at 2024-09-16T12:49:27.068462 - Prediction time: 2024-08-05T01:00:00 - Value: 1.6798653802952104 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:27.068 - Received at 2024-09-16T12:49:27.068462 - Prediction time: 2024-08-05T02:00:00 - Value: 1.8516841175245484 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:27.069 - Received at 2024-09-16T12:49:27.068462 - Prediction time: 2024-08-05T03:00:00 - Value: 1.597151905501515 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:27.069 - Received at 2024-09-16T12:49:27.068462 - Prediction time: 2024-08-05T04:00:00 - Value: 1.8220749070639415 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:32.091 - 
+
+========================================
+New Batch of Predictions Received at 2024-09-16T12:49:32.091740
+========================================
+2024-09-16 12:49:32.092 - Received at 2024-09-16T12:49:32.091740 - Prediction time: 2024-08-05T02:00:00 - Value: 1.8303918763629696 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:32.095 - Received at 2024-09-16T12:49:32.091740 - Prediction time: 2024-08-05T03:00:00 - Value: 1.7143616068745895 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:32.095 - Received at 2024-09-16T12:49:32.091740 - Prediction time: 2024-08-05T04:00:00 - Value: 1.7122185871153537 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:32.096 - Received at 2024-09-16T12:49:32.091740 - Prediction time: 2024-08-05T05:00:00 - Value: 1.7324423082664957 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:37.128 - 
+
+========================================
+New Batch of Predictions Received at 2024-09-16T12:49:37.128507
+========================================
+2024-09-16 12:49:37.131 - Received at 2024-09-16T12:49:37.128507 - Prediction time: 2024-08-05T03:00:00 - Value: 1.8991643442759774 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:37.133 - Received at 2024-09-16T12:49:37.128507 - Prediction time: 2024-08-05T04:00:00 - Value: 1.8905256294763042 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:37.135 - Received at 2024-09-16T12:49:37.128507 - Prediction time: 2024-08-05T05:00:00 - Value: 1.532905635223477 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:37.136 - Received at 2024-09-16T12:49:37.128507 - Prediction time: 2024-08-05T06:00:00 - Value: 1.6096084494331149 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:42.171 - 
+
+========================================
+New Batch of Predictions Received at 2024-09-16T12:49:42.171810
+========================================
+2024-09-16 12:49:42.172 - Received at 2024-09-16T12:49:42.171810 - Prediction time: 2024-08-05T04:00:00 - Value: 1.5895543928810365 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:42.175 - Received at 2024-09-16T12:49:42.171810 - Prediction time: 2024-08-05T05:00:00 - Value: 1.7588247393936878 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:42.176 - Received at 2024-09-16T12:49:42.171810 - Prediction time: 2024-08-05T06:00:00 - Value: 1.8933213294979119 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:42.176 - Received at 2024-09-16T12:49:42.171810 - Prediction time: 2024-08-05T07:00:00 - Value: 1.769433994413326 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:47.201 - 
+
+========================================
+New Batch of Predictions Received at 2024-09-16T12:49:47.201413
+========================================
+2024-09-16 12:49:47.202 - Received at 2024-09-16T12:49:47.201413 - Prediction time: 2024-08-05T05:00:00 - Value: 1.885036475595179 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:47.202 - Received at 2024-09-16T12:49:47.201413 - Prediction time: 2024-08-05T06:00:00 - Value: 1.7216679566332949 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:47.203 - Received at 2024-09-16T12:49:47.201413 - Prediction time: 2024-08-05T07:00:00 - Value: 1.7048809383948136 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:47.204 - Received at 2024-09-16T12:49:47.201413 - Prediction time: 2024-08-05T08:00:00 - Value: 1.880550321059097 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:52.218 - 
+
+========================================
+New Batch of Predictions Received at 2024-09-16T12:49:52.218429
+========================================
+2024-09-16 12:49:52.218 - Received at 2024-09-16T12:49:52.218429 - Prediction time: 2024-08-05T06:00:00 - Value: 1.6182303287876292 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:52.218 - Received at 2024-09-16T12:49:52.218429 - Prediction time: 2024-08-05T07:00:00 - Value: 1.6507488490259359 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:52.218 - Received at 2024-09-16T12:49:52.218429 - Prediction time: 2024-08-05T08:00:00 - Value: 1.6742115624272214 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:52.218 - Received at 2024-09-16T12:49:52.218429 - Prediction time: 2024-08-05T09:00:00 - Value: 1.7790002588260239 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:57.234 - 
+
+========================================
+New Batch of Predictions Received at 2024-09-16T12:49:57.234562
+========================================
+2024-09-16 12:49:57.235 - Received at 2024-09-16T12:49:57.234562 - Prediction time: 2024-08-05T07:00:00 - Value: 1.6174020084780394 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:57.235 - Received at 2024-09-16T12:49:57.234562 - Prediction time: 2024-08-05T08:00:00 - Value: 1.8398206443346785 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:57.236 - Received at 2024-09-16T12:49:57.234562 - Prediction time: 2024-08-05T09:00:00 - Value: 1.8421397814652134 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:49:57.236 - Received at 2024-09-16T12:49:57.234562 - Prediction time: 2024-08-05T10:00:00 - Value: 1.8165062098080194 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:50:02.258 - 
+
+========================================
+New Batch of Predictions Received at 2024-09-16T12:50:02.258124
+========================================
+2024-09-16 12:50:02.258 - Received at 2024-09-16T12:50:02.258124 - Prediction time: 2024-08-05T08:00:00 - Value: 1.847855341741463 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:50:02.259 - Received at 2024-09-16T12:50:02.258124 - Prediction time: 2024-08-05T09:00:00 - Value: 1.816233999491412 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:50:02.260 - Received at 2024-09-16T12:50:02.258124 - Prediction time: 2024-08-05T10:00:00 - Value: 1.8925981146457915 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
+2024-09-16 12:50:02.260 - Received at 2024-09-16T12:50:02.258124 - Prediction time: 2024-08-05T11:00:00 - Value: 1.782912142514855 - Origin: TEST_ORIGIN - Parameter: TEST_PARAM
